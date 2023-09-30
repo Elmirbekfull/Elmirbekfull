@@ -2,7 +2,7 @@
 <h3 align="center">Mobile developer</h3>
 <h5 align="center">IOS | ANDROID</h5>
 <img align="right"  width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Coding">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmirbekfull&show_icons=true&locale=en&layout=compact" alt="elmirbekfull" />
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elmirbekfull&label=Profile%20views&color=0e75b6&style=flat" alt="elmirbekfull" /> </p>
@@ -25,6 +25,7 @@
  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
 </p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmirbekfull&show_icons=true&locale=en&layout=compact" alt="elmirbekfull" />
 
 <h3 align="left">Database:</h3>
 <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
