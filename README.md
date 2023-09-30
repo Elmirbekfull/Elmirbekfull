@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmirbekfull&label=Profile%20views&color=0e75b6&style=flat" alt="elmirbekfull" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- **Flutter**
 
-- 💬 Ask me about **mobile development , MEARN**
+- the path to **mobile development , MEARN**
 
-- 📫 How to reach me **frontendbekend@iCloud.com**
-
-- ⚡ Fun fact **I am Funny**
+- **frontendbekend@iCloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
