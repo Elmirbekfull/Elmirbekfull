@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elmirbekfull&label=Profile%20views&color=0e75b6&style=flat" alt="elmirbekfull" /> </p>
 
-
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <p align="center" - **Flutter**></p>
 
 - the path to **mobile development**
