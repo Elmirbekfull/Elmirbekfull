@@ -1,6 +1,6 @@
 <h1 align="center">Elmirbek Abdymanapov</h1>
 <h3 align="center">Mobile developer</h3>
-<h5 align="center">for IOS | ANDROIDr</h5>
+<h5 align="center">for IOS | ANDROID</h5>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmirbekfull&label=Profile%20views&color=0e75b6&style=flat" alt="elmirbekfull" /> </p>
