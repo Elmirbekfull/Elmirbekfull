@@ -1,11 +1,11 @@
 <h1 align="center">Elmirbek Abdymanapov</h1>
 <h3 align="center">Mobile developer</h3>
 <h5 align="center">IOS | ANDROID</h5>
+<img align="right"  width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Coding">
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elmirbekfull&label=Profile%20views&color=0e75b6&style=flat" alt="elmirbekfull" /> </p>
 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <p align="center" - **Flutter**></p>
 
 - the path to **mobile development**
