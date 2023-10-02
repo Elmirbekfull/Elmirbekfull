@@ -1,5 +1,5 @@
 <h1 align="center">Elmirbek Abdymanapov</h1>
-<h3 align="center">software developer</h3>
+<h3 align="center">Software developer</h3>
 <h5 align="center">IOS | ANDROID | WEB</h5>
 <img align="right"  width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Coding">
 
