@@ -9,9 +9,9 @@
 
 <p align="center" - **Flutter**></p>
 
-- the path to **mobile development**
+- **Если вы готовы воплотить в жизнь ваши идеи или имеете интересное предложение, свяжитесь со мной через:**
 
-- **frontendbekend@iCloud.com**
+- **frontendbekend121@gmail.com**
 
 
 
